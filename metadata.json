@@ -2,7 +2,7 @@
   "name": "Chiken Foundation",
   "symbol": "CHKN",
   "description": "The Best Foundation Ever",
-  "image": "https://raw.githubusercontent.com/ChickenFDN/eagle/main/chkn.png",
+  "image": "https://raw.githubusercontent.com/ChickenFDN/chkn/main/Chkn.png",
 
   "external_url": "https://chickenfoundation.xyz",
 
@@ -15,7 +15,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/ChickenFDN/eagle/main/chkn.png",
+        "uri": "https://raw.githubusercontent.com/ChickenFDN/Chkn/main/chkn.png",
         "type": "image/png"
       }
     ],
