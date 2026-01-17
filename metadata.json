@@ -2,5 +2,11 @@
   "name": "Chicken Foundation",
   "symbol": "CHKN",
   "description": "The Best Foundation Ever",
-  "image": "https://raw.githubusercontent.com/ChickenFDN/Chkn/main/chkn.jpg"
+  "image": "https://raw.githubusercontent.com/ChickenFDN/Chkn/main/chkn.png",
+  "external_url": "https://chickenfoundation.xyz",
+  "extensions": {
+    "website": "https://chickenfoundation.xyz",
+    "twitter": "https://x.com/ChickenFDN",
+    "telegram": "https://t.me/ChickenFDN"
+  }
 }
