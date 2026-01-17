@@ -1,21 +1,12 @@
 {
   "name": "Chicken Foundation",
-  "symbol": "CHICKEN",
+  "symbol": "CHKN",
   "description": "The Best Foundation Ever",
   "image": "https://raw.githubusercontent.com/ChickenFDN/Chkn/main/chkn.png",
   "external_url": "https://chickenfoundation.xyz",
-  "attributes": [
-    { "trait_type": "Website", "value": "https://chickenfoundation.xyz" },
-    { "trait_type": "Twitter", "value": "https://x.com/ChickenFDN" },
-    { "trait_type": "Telegram", "value": "https://t.me/ChickenFDN" }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/ChickenFDN/Chkn/main/chkn.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
+  "extensions": {
+    "website": "https://chickenfoundation.xyz",
+    "twitter": "https://x.com/ChickenFDN",
+    "telegram": "https://t.me/ChickenFDN"
   }
 }
