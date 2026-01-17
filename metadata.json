@@ -5,13 +5,13 @@
   "image": "https://raw.githubusercontent.com/ChickenFDN/chkn/main/Chkn.png",
 
   "external_url": "https://chickenfoundation.xyz",
+"extensions": {
+    "website": "https://chickenfoundation.xyz",
+    "twitter": "https://x.com/ChickenFDN"
+    "telegram" : "https://t.me/ChickenFDN"
+}
 
-  "attributes": [
-    { "trait_type": "Website", "value": "https://chickenfoundation.xyz" },
-    { "trait_type": "X", "value": "https://x.com/ChickenFDN" },
-    { "trait_type": "Telegram", "value": "https://t.me/ChickenFDN" }
-  ],
-
+{
   "properties": {
     "files": [
       {
